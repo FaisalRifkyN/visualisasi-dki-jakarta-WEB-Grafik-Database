@@ -53,7 +53,7 @@ Membuat Project Laravel
 
 - Unduh repositori ini ke komputer Anda.
 - Pindahkan folder proyek ke direktori root web server Anda (misalnya, di folder htdocs untuk XAMPP).
-- Buka folder ketikan di cmd php artisan seve.
+- Buka folder ketikan di cmd php artisan serve.
 - Cari dan ubah (env) konfigurasi koneksi database jika diperlukan.
 - Buka web browser dan akses aplikasi dengan URL berikut: 127.0.0.1:8000.
 - aplikasi akan meminta Anda untuk register.     
