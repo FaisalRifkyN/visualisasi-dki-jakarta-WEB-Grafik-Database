@@ -46,7 +46,7 @@
                             </ul>
                             <ul class="navbar-nav d-lg-block d-none">
                                 <li class="nav-item">
-                                    <a href="" class="btn btn-sm mb-0 me-1 btn-primary">Git Hub</a>
+                                    <a href="https://github.com/FaisalRifkyN" class="btn btn-sm mb-0 me-1 btn-primary">Git Hub</a>
                                 </li>
                             </ul>
                         </div>
